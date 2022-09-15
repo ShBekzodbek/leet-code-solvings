@@ -1,0 +1,4 @@
+# ninja log v5
+1	16	1658932710285121566	build.ninja	bab6abdeae23e29c
+0	184	1658906604627986204	CMakeFiles/for_leetcode.dir/FizzBuzzForLeetcode.cpp.o	890d93cf6d0ac8d1
+184	228	1658906604671986122	for_leetcode	5f9b5bffac13ad0c

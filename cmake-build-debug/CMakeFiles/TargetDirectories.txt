@@ -1,0 +1,3 @@
+/home/bek/Desktop/for leetcode/cmake-build-debug/CMakeFiles/for_leetcode.dir
+/home/bek/Desktop/for leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bek/Desktop/for leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
